@@ -1,0 +1,95 @@
+*** Core Changelog ***
+
+2017.08.02 -------------- 0.0.9
+  - New -
+  + New vc element Portfolio Grid (grid masonry & filter category)
+  + New notices admin (theme required, install demo, install plugins, support)
+
+  - Update -
+  + Update portfolio single page
+  + Update element Give Carousel new layout
+  + Update event archive small css
+  + Update page checkout small css (WooCommerce)
+  + Update function re-build scss to css after update theme (Not yet test)
+
+2017.07.20 -------------- 0.0.8
+  - New -
+  + New button donate on header menu (give donations plugin)
+  + New metabox option off load googleFont on page (off-googlefont: true) / Use for increase load page time
+
+  - Update -
+  + Update style header top bar
+
+2017.07.19 -------------- 0.0.7
+  - Fix -
+  + Fix icon not show (vc element Featured box)
+
+  - Issue -
+  + Issue Visual Composer builder v5.2 frontend error javascript
+  + Issue vc element Liquid Button Svg not apply effect on frontend builder
+
+  - New -
+  + New vc element Progress Bar Svg
+  + New vc element Grid Resizable
+  + New vc element Liquid Button Svg
+  + New vc element Give Carousel
+  + New vc element Event Carousel
+  + New vc element Event element Posts Listing
+  + New vc element Counter Up
+  + New vc element grid builder Give (Visual Composer Grid Builder)
+
+  - Compatible -
+  + Compatible plugin "Give" (donation)
+  + Compatible Visual Composer v5.1.1
+
+  - Update -
+  + Update plugin Unyson Event Helper
+  + Update Give customize general settings
+  + Update Vc element vc_post_grid_resizable layout gallery (add thumbnail and show media desciption)
+
+2017.05.23 -------------- 0.0.6
+* Update
+  + Visual Composer ready
+  + VC new elelemt: Post slider 2, Base carousel, Featured box, Pricing table
+  + New function socical share post
+  + Update style product gallery single page (WooCommerce 3x)
+  + Add function product gallery Zoom, Slider, Lightbox (WooCommerce 3x)
+  + Add background for each product_cat page (WooCommerce)
+  + Add custom title for each product_cat (WooCommerce)
+  + Update Css
+
+2017.04.26 -------------- 0.0.5
+* Update
+  + Unyson Event Helper - plugin
+  + Change footer copyright background color default (light)
+  + Update WooCommerce 3.x
+
+2017.04.03 -------------- 0.0.4
+* Update style
+  + Widget product Woo on the footer side bar
+  + Fix style menu
+
+2017.02.27 -------------- 0.0.3
+* Update style
+  + Compatible plugin "restaurant-reservations" (Booking form)
+  + Compatible plugin "food-and-drink-menu" (style menu, menu item)
+* Core
+  + plugin "food-and-drink-menu" filter option layout (add more layout custom)
+
+2017.02.11 -------------- 0.0.2
+* Update theme option
+  + Header 2,3
+  + Recipe
+  + Title-bar add more Breadcrumb setting
+  + Post pagination 2
+  + Post layout creative
+* Core
+  + Off current theme update by wordpress.org
+  + Add more setting per-post layout creative
+  + Compatible plugin "WP Ultimate Recipe Premium"
+  + Update style title-bar
+  + Move breadcrumb on title-bar
+  + Update style widget Bt-Post
+
+2016.12.29 -------------- 0.0.1
+* First release!
